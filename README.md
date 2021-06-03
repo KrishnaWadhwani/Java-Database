@@ -3,7 +3,7 @@
 Welcome To **LINSERR** A Smart Database Using Simple File IO
 
 1) *Based On CLI*
-
+2) *Default Admin Password: `admin`*
 ## Folder Structure
 
 The **LINSERR** contains two folders by default, where:
