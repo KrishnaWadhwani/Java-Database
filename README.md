@@ -17,3 +17,7 @@ The **LINSERR** contains two files by default, where:
 
 - `src/Main.java`: The Main File To Run **LINSERR**
 - `src/db.txt`: Where Your Date Will Be Saved
+
+# Stats Of This Repository
+
+[![Stats](https://github-readme-stats.vercel.app/api/pin/?username=KrishnaWadhwani&repo=Java-Database&theme=dracula)](https://github.com/KrishnaWadhwani)
